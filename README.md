@@ -1,5 +1,5 @@
 # paypal
-Paypal Clone Assessment- A MERN application with user authentication and authorization.
+ A MERN application with user authentication and authorization.
 
 - Live link: https://paypalify.netlify.app/
 
